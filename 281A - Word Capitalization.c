@@ -14,6 +14,5 @@ int main() {
 
     // Print the result
     printf("%s\n", word);
-
     return 0;
 }
